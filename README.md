@@ -1,11 +1,36 @@
-# Node Course Carsales
+<h1  align="center">Cluster Angular Site</h1>
 
-Este projeto foi desenvolvido com Node.js, é a API para o curso de frontend com Angular.
+<p align="center">Nesse projeto foi implementado o cluster em MongoDb</p>
 
-## Ambiente de desenvolvimento
+<h2>🚀 Objetivo</h2>
 
-Para rodar o projeto é necessário ter o Nodejs 7.x ou maior instalado.
-Instale o mongodb localmente ou crie um banco de dados remoto.
-No arquivo config.js configure a conexão com o banco de dados.
-Rode o comando `npm install` para instalar as dependências do projeto.
-Rode o comando `npm start` para subir o servidor.
+<p>Este cluster foi feito em MongoDB para ser utilizado para as requisições do projeto <a href="https://github.com/Alneide/angular-site">Angular Site </a> .</p>
+
+<h2>🔧 Instalação</h2>
+
+<p>Para utilizar a aplicação você precisa usar os comandos: </p>
+
+```
+- git clone
+- npm install
+- npm start
+```
+
+<p>O projeto abre no localhost:8010. </p>
+
+<h2>🌟 Sites</h2>
+
+<p>Abaixo está o link dos sites utilizados nessa aplicação.</p>
+
+<h4>
+    <a href="https://www.mongodb.com/cloud/atlas/register">🔗 MongoDB</a>
+</h4>
+
+<h2>🤝 Contribuindo </h2>
+
+* Conte a outras pessoas sobre este projeto 📢
+* Dê estrela no projeto ⭐️
+
+<h4 align="center">📌 Finalizado</h4>
+
+
